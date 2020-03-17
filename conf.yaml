@@ -1,0 +1,8 @@
+date_debut: 17/03/2020  # format dd/mm/yyyy
+date_fin: 17/03/2020  # format dd/mm/yyyy
+nom_prenom: PASTEUR Louis
+date_de_naissance: 27/12/1822
+adresse: 1 rue de l'Université 67000 STRASBOURG
+lieu: STRASBOURG
+signature: /home/romain/signature_pasteur.png  # image de la signature. 
+
